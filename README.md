@@ -1,2 +1,5 @@
-# shenzhen-ziroom-analysis
-爬取深圳自如房源信息，分析房租情况。
+# 深圳自如房租分析
+* 采用可视化爬虫工具集搜客爬取
+* 用 Pandas 进行数据清洗
+* 用 Matplotlib 和 Seaborn 进行可视化
+* 数据仅作为个人分析所用，无商业用途。
